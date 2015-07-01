@@ -1,6 +1,8 @@
 protractor-demo
 ===============
 
+[![Build Status](https://snap-ci.com/snap-ci-examples/protractor-demo/branch/master/build_image)](https://snap-ci.com/snap-ci-examples/protractor-demo/branch/master)
+
 Demo test application and protractor tests.
 
 Setup
